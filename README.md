@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bor2023
+- 👀 I’m interested in electronics.
+- 🌱 I’m currently learning C.
+- 💞️ I’m looking to collaborate on nearly everything.
